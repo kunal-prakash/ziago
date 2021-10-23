@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown{
+  position: relative;
+    left: -20px;
+    top: 2px;
+}
+.inputbox{
+  width: 605px;
+}
+.optionbox{
+  display: none;
+  height: 150px;
+  overflow-x: auto;
+  width: 600px;
+  padding: 5px;
+}
+.lisitem{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.optionbox:hover{
+  cursor: pointer;
+}
+
